@@ -1,2 +1,3 @@
-# wp-essential-plugins
-List of essential plugins
+# Essential plugins for WordPress
+
+Some suggestions of essential plugins for basic use:
