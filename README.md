@@ -8,3 +8,4 @@ Some suggestions of essential plugins for basic use:
 - [Regenerate Thumbnails](https://br.wordpress.org/plugins/regenerate-thumbnails/)
 - [JetPack](https://wordpress.org/plugins/jetpack/)
 - [WP Embed Facebook](https://github.com/sigami/wp-embed-facebook)
+- [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
