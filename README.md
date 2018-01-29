@@ -11,4 +11,4 @@ Some suggestions of essential plugins for basic use:
 - [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
 - [WP Popup Banners Pro](https://codecanyon.net/item/wp-popup-banners-pro-ultimate-popup-plugin-for-wordpress/19910698?ref=hacktheme)
 - [Admin Columns](https://www.admincolumns.com/)
--[Whoops from WP](https://github.com/Rarst/wps)
+- [Whoops from WP](https://github.com/Rarst/wps)
