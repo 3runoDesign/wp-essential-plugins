@@ -13,3 +13,4 @@ Some suggestions of essential plugins for basic use:
 - [Admin Columns](https://www.admincolumns.com/)
 - [Whoops from WP](https://github.com/Rarst/wps)
 - [WP Smush PRO](https://premium.wpmudev.org/project/wp-smush-pro)
+- [Fancy Admin UI](https://br.wordpress.org/plugins/fancy-admin-ui/)
