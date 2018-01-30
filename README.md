@@ -12,3 +12,4 @@ Some suggestions of essential plugins for basic use:
 - [WP Popup Banners Pro](https://codecanyon.net/item/wp-popup-banners-pro-ultimate-popup-plugin-for-wordpress/19910698?ref=hacktheme)
 - [Admin Columns](https://www.admincolumns.com/)
 - [Whoops from WP](https://github.com/Rarst/wps)
+- [WP Smush PRO](https://premium.wpmudev.org/project/wp-smush-pro)
